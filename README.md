@@ -27,7 +27,7 @@
 `было запущено 2 simole python сервера на портах 8001 и 8002`
 
 <img width="622" height="231" alt="image" src="https://github.com/user-attachments/assets/96640b47-a927-400c-9839-bc467be4ebb6" />
-....
+Поле для вставки кода...
 listen stats  # веб-страница со статистикой
         bind                    :888
         mode                    http
@@ -56,6 +56,7 @@ listen web_tcp
 
         server s1 127.0.0.1:8001 check inter 3s
         server s2 127.0.0.1:8002 check inter 3s
+
 ```
 ---
 
