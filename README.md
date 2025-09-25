@@ -57,6 +57,10 @@ listen web_tcp
         server s2 127.0.0.1:8002 check inter 3s
 
 ```
+<img width="563" height="211" alt="image" src="https://github.com/user-attachments/assets/4c03e9e6-c3fe-4482-a6e9-14c7eeb6fe09" />
+
+https://drive.google.com/file/d/1133Hs1AofMLBaDhD5P-RSln7w-6uF-1I/view?usp=sharing
+
 ---
 
 ### Задание 2
