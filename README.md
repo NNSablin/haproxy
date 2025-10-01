@@ -76,5 +76,3 @@ https://drive.google.com/file/d/1133Hs1AofMLBaDhD5P-RSln7w-6uF-1I/view?usp=shari
 
 ---
 
-
-![Название скриншота](ссылка на скриншот)`
